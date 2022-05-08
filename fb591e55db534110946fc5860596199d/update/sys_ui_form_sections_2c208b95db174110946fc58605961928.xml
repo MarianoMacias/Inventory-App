@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="2c208b95db174110946fc58605961928" sys_domain="global" table="x_776815_common_sa_reservations" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 20:18:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4208b95db174110946fc5860596192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_776815_common_sa_reservations" name="x_776815_common_sa_reservations" sys_domain="global" view="Default view">2c208b95db174110946fc58605961928</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_776815_common_sa_reservations" sys_domain="global" view="Default view">b2c0be51dbd34110946fc586059619c8</sys_ui_section>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 20:18:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 20:18:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60208b95db174110946fc5860596192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_776815_common_sa_reservations" name="x_776815_common_sa_reservations" sys_domain="global" view="Default view">2c208b95db174110946fc58605961928</sys_ui_form>
+            <sys_ui_section caption="Payment Details" display_value="Payment Details" name="x_776815_common_sa_reservations" sys_domain="global" view="Default view">6c208b95db174110946fc58605961926</sys_ui_section>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 20:18:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 20:18:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74208b95db174110946fc586059619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_776815_common_sa_reservations" name="x_776815_common_sa_reservations" sys_domain="global" view="Default view">2c208b95db174110946fc58605961928</sys_ui_form>
+            <sys_ui_section caption="Request for Assistance" display_value="Request for Assistance" name="x_776815_common_sa_reservations" sys_domain="global" view="Default view">2c208b95db174110946fc58605961927</sys_ui_section>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 20:18:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_776815_common_sa_reservations</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 20:18:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c208b95db174110946fc58605961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_776815_common_sa_reservations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2c208b95db174110946fc58605961928</sys_update_name>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 20:18:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

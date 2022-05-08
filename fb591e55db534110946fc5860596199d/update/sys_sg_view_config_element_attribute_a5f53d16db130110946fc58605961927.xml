@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_icon_01_TextValue</description>
+        <name display_value="TextValue">601f19c2b7321010df65f6efce11a925</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-08 17:28:50</sys_created_on>
+        <sys_id>a5f53d16db130110946fc58605961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>601f19c2b7321010df65f6efce11a925</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_a5f53d16db130110946fc58605961927</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-08 17:28:50</sys_updated_on>
+        <translated_value>Quantity:</translated_value>
+        <value/>
+        <view_config_element display_value="text_icon_01_element">e5f53d16db130110946fc58605961924</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=a5f53d16db130110946fc58605961927"/>
+</record_update>

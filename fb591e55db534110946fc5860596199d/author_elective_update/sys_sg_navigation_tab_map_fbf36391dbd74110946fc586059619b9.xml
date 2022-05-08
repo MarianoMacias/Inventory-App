@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="DELETE">
+        <navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation>
+        <navigation_tab display_value="CAE">eff36391dbd74110946fc586059619b8</navigation_tab>
+        <order>360</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 22:55:39</sys_created_on>
+        <sys_id>fbf36391dbd74110946fc586059619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_fbf36391dbd74110946fc586059619b9</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:55:39</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Common Space Administration">fb591e55db534110946fc5860596199d</application>
+        <file_path/>
+        <instance_id>3dc0a069db935b400e785d00cf961999</instance_id>
+        <instance_name>dev64721</instance_name>
+        <name>sys_sg_navigation_tab_map_fbf36391dbd74110946fc586059619b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map"><sys_sg_navigation_tab_map action="INSERT_OR_UPDATE"><navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation><navigation_tab display_value="CAE">eff36391dbd74110946fc586059619b8</navigation_tab><order>360</order><sys_class_name>sys_sg_navigation_tab_map</sys_class_name><sys_created_by>Arturo.aceves</sys_created_by><sys_created_on>2022-05-05 22:55:39</sys_created_on><sys_id>fbf36391dbd74110946fc586059619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package><sys_policy/><sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope><sys_update_name>sys_sg_navigation_tab_map_fbf36391dbd74110946fc586059619b9</sys_update_name><sys_updated_by>Arturo.aceves</sys_updated_by><sys_updated_on>2022-05-05 22:55:39</sys_updated_on></sys_sg_navigation_tab_map></record_update>]]></payload>
+        <payload_hash>316802201</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>93b7cb11db574110946fc58605961908</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 22:55:39</sys_created_on>
+        <sys_id>33f36391dbd74110946fc586059619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180966fa0e20000001</sys_recorded_at>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:55:39</sys_updated_on>
+        <type>Navigation Tab Map</type>
+        <update_guid>bbf36391b1d74110e171e9a5d1829dbf</update_guid>
+        <update_guid_history>bbf36391b1d74110e171e9a5d1829dbf:316802201</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-06 19:39:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_tab_map">sys_sg_navigation_tab_map</sys_db_object>
+        <sys_id>26753dc04465441a969558d27f54b9a4</sys_id>
+        <sys_metadata>fbf36391dbd74110946fc586059619b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_scope_delete display_value="">1d1d94d4dca54d10a0b57c3ad1c4a840</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_tab_map_fbf36391dbd74110946fc586059619b9</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_tab_map_fbf36391dbd74110946fc586059619b9">33f36391dbd74110946fc586059619c0</sys_update_version>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-06 19:39:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

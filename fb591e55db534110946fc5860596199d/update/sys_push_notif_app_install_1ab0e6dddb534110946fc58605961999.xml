@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2022-05-08 17:17:46</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 18:01:44</sys_created_on>
+        <sys_id>1ab0e6dddb534110946fc58605961999</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>csyHOzt9QJqgf8NwusDDRS:APA91bFy66lwMjfdwxr8SQENZl50qn2Q_XNCOK0TU2XW0o0mITDTVbO5l8XazRjNjNVDOkOQ0Vu31sorfY2b8_V-2I0MQ5YGwktvBHNKtsM6AShMmgFg8xzsHFXJkIsT4kEwQ_hgwPRx</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_1ab0e6dddb534110946fc58605961999</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-08 17:17:46</sys_updated_on>
+        <sys_user_id display_value="Arturo Aceves">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>csyHOzt9QJqgf8NwusDDRS:APA91bFy66lwMjfdwxr8SQENZl50qn2Q_XNCOK0TU2XW0o0mITDTVbO5l8XazRjNjNVDOkOQ0Vu31sorfY2b8_V-2I0MQ5YGwktvBHNKtsM6AShMmgFg8xzsHFXJkIsT4kEwQ_hgwPRx</token>
+    </sys_push_notif_app_install>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>u_cost_for_reservation-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>Jonathan.murillo</sys_created_by>
+        <sys_created_on>2022-05-05 22:21:21</sys_created_on>
+        <sys_id>152c1359db974110946fc58605961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_cost_for_reservation-FieldLabel</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_152c1359db974110946fc58605961984</sys_update_name>
+        <sys_updated_by>Jonathan.murillo</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:21:21</sys_updated_on>
+        <view_config display_value="Reservations List Screen View Config">192c1359db974110946fc58605961924</view_config>
+        <view_template_slot display_value="text_06">cb878d7041275010f877183fc9b8be59</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

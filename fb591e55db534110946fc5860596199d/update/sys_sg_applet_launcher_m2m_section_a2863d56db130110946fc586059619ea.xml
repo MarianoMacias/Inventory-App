@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Common Areas and Catering Reservation">e82c5f19db974110946fc586059619d0</applet_launcher>
+        <order>30</order>
+        <section display_value="Inventory">6a863d56db130110946fc586059619e7</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-08 17:31:22</sys_created_on>
+        <sys_id>a2863d56db130110946fc586059619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_a2863d56db130110946fc586059619ea</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-08 17:31:22</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

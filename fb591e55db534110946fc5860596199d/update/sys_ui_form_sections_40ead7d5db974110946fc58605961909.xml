@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="40ead7d5db974110946fc58605961909" sys_domain="global" table="x_776815_common_sa_public_reservations" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Osmar.bravo</sys_created_by>
+            <sys_created_on>2022-05-05 22:15:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98ead7d5db974110946fc58605961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_776815_common_sa_public_reservations" name="x_776815_common_sa_public_reservations" sys_domain="global" view="Default view">40ead7d5db974110946fc58605961909</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_776815_common_sa_public_reservations" sys_domain="global" view="Default view">0cead7d5db974110946fc58605961912</sys_ui_section>
+            <sys_updated_by>Osmar.bravo</sys_updated_by>
+            <sys_updated_on>2022-05-05 22:15:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Osmar.bravo</sys_created_by>
+            <sys_created_on>2022-05-05 22:15:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80ead7d5db974110946fc5860596190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_776815_common_sa_public_reservations" name="x_776815_common_sa_public_reservations" sys_domain="global" view="Default view">40ead7d5db974110946fc58605961909</sys_ui_form>
+            <sys_ui_section caption="Payment Details" display_value="Payment Details" name="x_776815_common_sa_public_reservations" sys_domain="global" view="Default view">48ead7d5db974110946fc5860596190b</sys_ui_section>
+            <sys_updated_by>Osmar.bravo</sys_updated_by>
+            <sys_updated_on>2022-05-05 22:15:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Osmar.bravo</sys_created_by>
+            <sys_created_on>2022-05-05 22:15:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08ead7d5db974110946fc58605961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_776815_common_sa_public_reservations" name="x_776815_common_sa_public_reservations" sys_domain="global" view="Default view">40ead7d5db974110946fc58605961909</sys_ui_form>
+            <sys_ui_section caption="Request for Assistance" display_value="Request for Assistance" name="x_776815_common_sa_public_reservations" sys_domain="global" view="Default view">88ead7d5db974110946fc5860596190f</sys_ui_section>
+            <sys_updated_by>Osmar.bravo</sys_updated_by>
+            <sys_updated_on>2022-05-05 22:15:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_776815_common_sa_public_reservations</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Osmar.bravo</sys_created_by>
+            <sys_created_on>2022-05-05 22:15:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40ead7d5db974110946fc58605961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_776815_common_sa_public_reservations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_40ead7d5db974110946fc58605961909</sys_update_name>
+            <sys_updated_by>Osmar.bravo</sys_updated_by>
+            <sys_updated_on>2022-05-05 22:15:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

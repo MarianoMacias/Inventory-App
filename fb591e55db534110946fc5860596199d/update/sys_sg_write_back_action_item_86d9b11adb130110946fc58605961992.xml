@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+    var gr = new GlideRecord("x_776815_common_sa_reservation_database");
+    var query = "GOTOname=" + input.qr_code;
+    gs.info("Ta entrando al action item y tiene query " + query);
+    gr.addEncodedQuery(query);
+    gr.query();
+    while (gr.next()) {
+        if (gr.getValue("quantity") != 0) {
+            gs.info("Encontro el QR y tiene " + gr.getValue("quantity"));
+            var x = gr.getValue("quantity") - 1;
+            gr.quantity = x;
+            gr.update();
+        }else{
+			gs.addErrorMessage("There is no inventory for that snack!");
+		}
+    }
+})(input);]]></execution_script>
+        <name>Grab a snack</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-08 18:13:29</sys_created_on>
+        <sys_id>86d9b11adb130110946fc58605961992</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Grab a snack</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_86d9b11adb130110946fc58605961992</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-08 19:01:10</sys_updated_on>
+        <table/>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=86d9b11adb130110946fc58605961992"/>
+</record_update>

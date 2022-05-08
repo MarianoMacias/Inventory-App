@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>attachment_list</data_item_field_name>
+        <field_name>attachment_list</field_name>
+        <hidden>false</hidden>
+        <order>9</order>
+        <record_id_field>sys_id</record_id_field>
+        <screen display_value="Details">72601fd9db574110946fc58605961953</screen>
+        <screen_data_item_table>x_776815_common_sa_reservations</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-06 21:08:40</sys_created_on>
+        <sys_id>d21510b9dbdb8110946fc586059619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment_list</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_screen_field_d21510b9dbdb8110946fc586059619d8</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-06 21:08:40</sys_updated_on>
+        <type>attachments_list</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_parameter_screen">
+    <sys_sg_parameter_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <available_offline>false</available_offline>
+        <cancel_label>Cancel</cancel_label>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <header_only_on_first_page>false</header_only_on_first_page>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Reserve space</name>
+        <next_label>Next</next_label>
+        <pagination_type>all</pagination_type>
+        <prev_label>Previous</prev_label>
+        <resume>false</resume>
+        <roles_override/>
+        <submit_label>Submit</submit_label>
+        <sys_class_name>sys_sg_parameter_screen</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 19:24:10</sys_created_on>
+        <sys_id>b193f255dbd34110946fc58605961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reserve space</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_parameter_screen_b193f255dbd34110946fc58605961972</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 19:24:10</sys_updated_on>
+        <type display_value="">string</type>
+        <view_config/>
+    </sys_sg_parameter_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b193f255dbd34110946fc58605961972"/>
+</record_update>

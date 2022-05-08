@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>1000</max_offline_rows>
+        <name>Reservation Database Screen Segment</name>
+        <order>10</order>
+        <screen display_value="Reservation Database">1325b9d2db130110946fc586059619e2</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-08 17:25:24</sys_created_on>
+        <sys_id>1f25f916db130110946fc58605961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reservation Database Screen Segment</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_1f25f916db130110946fc58605961902</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-08 17:25:24</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

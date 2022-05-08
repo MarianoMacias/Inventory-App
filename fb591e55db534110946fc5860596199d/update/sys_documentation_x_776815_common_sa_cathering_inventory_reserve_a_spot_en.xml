@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reserve_a_spot" label="Reserve a Spot?" language="en" table="x_776815_common_sa_cathering_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reserve_a_spot</element>
+            <help/>
+            <hint/>
+            <label>Reserve a Spot?</label>
+            <language>en</language>
+            <name>x_776815_common_sa_cathering_inventory</name>
+            <plural>Reserve a Spot?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 19:44:26</sys_created_on>
+            <sys_id>ee38f25ddbd34110946fc586059619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reserve a Spot?</sys_name>
+            <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+            <sys_update_name>sys_documentation_x_776815_common_sa_cathering_inventory_reserve_a_spot_en</sys_update_name>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 19:44:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

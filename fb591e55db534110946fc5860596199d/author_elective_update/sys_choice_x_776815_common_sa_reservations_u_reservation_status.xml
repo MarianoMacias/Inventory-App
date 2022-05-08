@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_reservation_status" table="x_776815_common_sa_reservations" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_reservation_status</element>
+            <name>x_776815_common_sa_reservations</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 18:32:39</sys_created_on>
+            <sys_id>8fc7aa95db934110946fc58605961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_reservation_status</sys_name>
+            <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+            <sys_update_name>sys_choice_x_776815_common_sa_reservations_u_reservation_status</sys_update_name>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 18:32:39</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reservation_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Available</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservations</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 18:32:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7b726d5db934110946fc58605961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 18:32:39</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reservation_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reserved</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservations</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 18:32:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90d762d5db934110946fc586059619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 18:32:53</sys_updated_on>
+            <value>reserved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reservation_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservations</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 18:33:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33d7a6d5db934110946fc58605961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 18:33:09</sys_updated_on>
+            <value>cancelled</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_776815_common_sa_cathering_inventory">u_catering_status=delivered^EQ<item display_value="Delivered" endquery="false" field="u_catering_status" goto="false" newquery="false" operator="=" or="false" value="delivered"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Delivered</label>
+        <name>Delivered</name>
+        <order>3</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>Prasanthi.paladugu</sys_created_by>
+        <sys_created_on>2022-05-05 20:37:31</sys_created_on>
+        <sys_id>10640fd9db174110946fc5860596194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delivered</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_process_flow_10640fd9db174110946fc5860596194c</sys_update_name>
+        <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+        <sys_updated_on>2022-05-05 20:37:31</sys_updated_on>
+        <table>x_776815_common_sa_cathering_inventory</table>
+    </sys_process_flow>
+</record_update>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="MS icon-Bag-Solid">f8aebdc273b52010a59b4c5353f6a7ed</icon>
+        <name>Common Space Administration</name>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 18:49:53</sys_created_on>
+        <sys_id>2bbb2a59db934110946fc586059619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Common Space Administration</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_2bbb2a59db934110946fc586059619e1</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 18:49:53</sys_updated_on>
+        <url/>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="DELETE" query="documentkey=2bbb2a59db934110946fc586059619e1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Common Space Administration">fb591e55db534110946fc5860596199d</application>
+        <file_path/>
+        <instance_id>3dc0a069db935b400e785d00cf961999</instance_id>
+        <instance_name>dev64721</instance_name>
+        <name>sys_sg_browser_screen_2bbb2a59db934110946fc586059619e1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen"><sys_sg_browser_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><external_browser>false</external_browser><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="MS icon-Bag-Solid">f8aebdc273b52010a59b4c5353f6a7ed</icon><name>Common Space Administration</name><relative_url>false</relative_url><roles_override/><sys_class_name>sys_sg_browser_screen</sys_class_name><sys_created_by>Arturo.aceves</sys_created_by><sys_created_on>2022-05-05 18:49:53</sys_created_on><sys_id>2bbb2a59db934110946fc586059619e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Common Space Administration</sys_name><sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package><sys_policy/><sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope><sys_update_name>sys_sg_browser_screen_2bbb2a59db934110946fc586059619e1</sys_update_name><sys_updated_by>Arturo.aceves</sys_updated_by><sys_updated_on>2022-05-05 18:49:53</sys_updated_on><url/></sys_sg_browser_screen><sys_translated_text action="delete_multiple" query="documentkey=2bbb2a59db934110946fc586059619e1"/></record_update>]]></payload>
+        <payload_hash>-1482138192</payload_hash>
+        <record_name>Common Space Administration</record_name>
+        <reverted_from/>
+        <source>7f591e55db534110946fc5860596199f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 18:49:53</sys_created_on>
+        <sys_id>27bbe21ddb934110946fc5860596195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180958e9fef0000001</sys_recorded_at>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 18:49:53</sys_updated_on>
+        <type>Mobile web screen</type>
+        <update_guid>6fbbe21d15934110b6a668e29147145a</update_guid>
+        <update_guid_history>6fbbe21d15934110b6a668e29147145a:-1482138192</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 18:53:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_browser_screen">sys_sg_browser_screen</sys_db_object>
+        <sys_id>1f01f5f967bc41eda9fe938417b225d1</sys_id>
+        <sys_metadata>2bbb2a59db934110946fc586059619e1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Common Space Administration</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_scope_delete display_value="">1d1d94d4dca54d10a0b57c3ad1c4a840</sys_scope_delete>
+        <sys_update_name>sys_sg_browser_screen_2bbb2a59db934110946fc586059619e1</sys_update_name>
+        <sys_update_version display_value="sys_sg_browser_screen_2bbb2a59db934110946fc586059619e1">27bbe21ddb934110946fc5860596195b</sys_update_version>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 18:53:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

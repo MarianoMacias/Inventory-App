@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>u_reservation_status</name>
+        <parent>f8fb0b95db574110946fc58605961908</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 21:29:51</sys_created_on>
+        <sys_id>fe505bd9db574110946fc5860596196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reservation_status</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_fe505bd9db574110946fc5860596196c</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 21:29:51</sys_updated_on>
+        <type>boolean</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Common Space Administration">fb591e55db534110946fc5860596199d</application>
+        <file_path/>
+        <instance_id>3dc0a069db935b400e785d00cf961999</instance_id>
+        <instance_name>dev64721</instance_name>
+        <name>sys_sg_item_parameter_fe505bd9db574110946fc5860596196c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>u_reservation_status</name><parent>f8fb0b95db574110946fc58605961908</parent><parent_table>sys_sg_data_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>Arturo.aceves</sys_created_by><sys_created_on>2022-05-05 21:29:51</sys_created_on><sys_id>fe505bd9db574110946fc5860596196c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_reservation_status</sys_name><sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package><sys_policy/><sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope><sys_update_name>sys_sg_item_parameter_fe505bd9db574110946fc5860596196c</sys_update_name><sys_updated_by>Arturo.aceves</sys_updated_by><sys_updated_on>2022-05-05 21:29:51</sys_updated_on><type>boolean</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-1432941716</payload_hash>
+        <record_name>u_reservation_status</record_name>
+        <reverted_from/>
+        <source>93b7cb11db574110946fc58605961908</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 21:29:51</sys_created_on>
+        <sys_id>fa505bd9db574110946fc5860596196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180962113470000001</sys_recorded_at>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 21:29:51</sys_updated_on>
+        <type>Data parameter</type>
+        <update_guid>36505bd901574110f191f9cf3949686f</update_guid>
+        <update_guid_history>36505bd901574110f191f9cf3949686f:-1432941716</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-06 21:09:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>34d7c0ef515443febecacbc7c09ba3c9</sys_id>
+        <sys_metadata>fe505bd9db574110946fc5860596196c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reservation_status</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_scope_delete display_value="">1d1d94d4dca54d10a0b57c3ad1c4a840</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_fe505bd9db574110946fc5860596196c</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_fe505bd9db574110946fc5860596196c">fa505bd9db574110946fc5860596196f</sys_update_version>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-06 21:09:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

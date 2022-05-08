@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes>e75113c0c3302010de10a0f89d40dd0e</includes>
+        <macroponent display_value="List">86106b5ddb974110946fc58605961922</macroponent>
+        <name>listSetPrefState</name>
+        <required_translations/>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    if (event.payload.interaction === "USER_ACTION") {
+        const listDividerPosition = event.payload.dividerPosition;
+        const listPreference = api.state.listRatioPreference;
+        
+        api.setState('listDividerPosition', listDividerPosition);
+
+        api.data.setListPreference.execute({
+            'name': listPreference,
+            'value': listDividerPosition
+        });    
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>Prasanthi.paladugu</sys_created_by>
+        <sys_created_on>2022-05-05 22:38:38</sys_created_on>
+        <sys_id>5a106b5ddb974110946fc58605961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>listSetPrefState</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_ux_client_script_5a106b5ddb974110946fc58605961971</sys_update_name>
+        <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:38:38</sys_updated_on>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

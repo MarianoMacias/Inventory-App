@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_no_of_seats_available" label="No seats needed" language="en" table="x_776815_common_sa_reservations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_no_of_seats_available</element>
+            <help/>
+            <hint/>
+            <label>No seats needed</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservations</name>
+            <plural>No seats needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 19:19:56</sys_created_on>
+            <sys_id>3b92f615dbd34110946fc58605961947</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>No seats needed</sys_name>
+            <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+            <sys_update_name>sys_documentation_x_776815_common_sa_reservations_u_no_of_seats_available_en</sys_update_name>
+            <sys_updated_by>Jonathan.murillo</sys_updated_by>
+            <sys_updated_on>2022-05-06 19:39:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

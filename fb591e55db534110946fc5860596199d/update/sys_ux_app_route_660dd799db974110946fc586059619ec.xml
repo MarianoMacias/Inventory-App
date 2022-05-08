@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Common Space Administration">e0cc1759db974110946fc5860596195c</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Reservations</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>reservations</route_type>
+        <screen_type display_value="Reservations">9d0d1399db974110946fc58605961963</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>Prasanthi.paladugu</sys_created_by>
+        <sys_created_on>2022-05-05 22:25:16</sys_created_on>
+        <sys_id>660dd799db974110946fc586059619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reservations</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_ux_app_route_660dd799db974110946fc586059619ec</sys_update_name>
+        <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:25:16</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=660dd799db974110946fc586059619ec"/>
+</record_update>

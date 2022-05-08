@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Reservations)">6d2c5359db974110946fc586059619d8</button>
+        <item_parameter display_value="Reservations u_no_of_seats_available">2d2c5359db974110946fc586059619d1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Jonathan.murillo</sys_created_by>
+        <sys_created_on>2022-05-05 22:21:23</sys_created_on>
+        <sys_id>a52c9359db974110946fc58605961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2d2c5359db974110946fc586059619d1</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a52c9359db974110946fc58605961931</sys_update_name>
+        <sys_updated_by>Jonathan.murillo</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:21:23</sys_updated_on>
+        <ui_parameter display_value="No of seats available">e12c5359db974110946fc586059619fb</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_is_it_a_paid_reservation" label="Is it a Paid Reservation?" language="en" table="x_776815_common_sa_reservations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_is_it_a_paid_reservation</element>
+            <help/>
+            <hint/>
+            <label>Is it a Paid Reservation?</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservations</name>
+            <plural>Is it a Paid Reservation?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Prasanthi.paladugu</sys_created_by>
+            <sys_created_on>2022-05-05 19:21:28</sys_created_on>
+            <sys_id>caf27e15dbd34110946fc5860596198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Is it a Paid Reservation?</sys_name>
+            <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+            <sys_update_name>sys_documentation_x_776815_common_sa_reservations_u_is_it_a_paid_reservation_en</sys_update_name>
+            <sys_updated_by>Prasanthi.paladugu</sys_updated_by>
+            <sys_updated_on>2022-05-05 19:21:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

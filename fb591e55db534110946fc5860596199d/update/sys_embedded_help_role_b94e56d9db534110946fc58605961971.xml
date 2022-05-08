@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_776815_common_sa.reservations_user" name="x_776815_common_sa.reservations_user">b54e56d9db534110946fc5860596196f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Jonathan.murillo</sys_created_by>
+        <sys_created_on>2022-05-05 17:51:03</sys_created_on>
+        <sys_id>b94e56d9db534110946fc58605961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b54e56d9db534110946fc5860596196f</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b94e56d9db534110946fc58605961971</sys_update_name>
+        <sys_updated_by>Jonathan.murillo</sys_updated_by>
+        <sys_updated_on>2022-05-05 17:51:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

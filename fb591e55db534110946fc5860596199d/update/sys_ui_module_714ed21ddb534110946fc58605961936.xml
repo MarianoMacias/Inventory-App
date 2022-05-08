@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Reservations">314ed21ddb534110946fc58605961933</application>
+        <filter/>
+        <name>Reservations</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_776815_common_sa.reservations_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Jonathan.murillo</sys_created_by>
+        <sys_created_on>2022-05-05 17:51:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>714ed21ddb534110946fc58605961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reservations</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_ui_module_714ed21ddb534110946fc58605961936</sys_update_name>
+        <sys_updated_by>Jonathan.murillo</sys_updated_by>
+        <sys_updated_on>2022-05-05 17:51:04</sys_updated_on>
+        <table>x_776815_common_sa_reservations</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

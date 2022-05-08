@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>CAE</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 22:55:39</sys_created_on>
+        <sys_id>27f36391dbd74110946fc586059619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAE</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_27f36391dbd74110946fc586059619b8</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:55:39</sys_updated_on>
+        <title>CAE</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Common Space Administration">fb591e55db534110946fc5860596199d</application>
+        <file_path/>
+        <instance_id>3dc0a069db935b400e785d00cf961999</instance_id>
+        <instance_name>dev64721</instance_name>
+        <name>sys_sg_applet_launcher_27f36391dbd74110946fc586059619b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>CAE</name><required_roles/><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>Arturo.aceves</sys_created_by><sys_created_on>2022-05-05 22:55:39</sys_created_on><sys_id>27f36391dbd74110946fc586059619b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CAE</sys_name><sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package><sys_policy/><sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope><sys_update_name>sys_sg_applet_launcher_27f36391dbd74110946fc586059619b8</sys_update_name><sys_updated_by>Arturo.aceves</sys_updated_by><sys_updated_on>2022-05-05 22:55:39</sys_updated_on><title>CAE</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>433436914</payload_hash>
+        <record_name>CAE</record_name>
+        <reverted_from/>
+        <source>93b7cb11db574110946fc58605961908</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-05 22:55:39</sys_created_on>
+        <sys_id>f3f36391dbd74110946fc586059619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180966fa0f40000001</sys_recorded_at>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:55:39</sys_updated_on>
+        <type>Launcher screen</type>
+        <update_guid>7ff36391f0d7411088020801efedccc0</update_guid>
+        <update_guid_history>7ff36391f0d7411088020801efedccc0:433436914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Arturo.aceves</sys_created_by>
+        <sys_created_on>2022-05-06 19:36:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>124044800cc9444e97d25686ae8d1384</sys_id>
+        <sys_metadata>27f36391dbd74110946fc586059619b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAE</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_scope_delete display_value="">1d1d94d4dca54d10a0b57c3ad1c4a840</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_27f36391dbd74110946fc586059619b8</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_27f36391dbd74110946fc586059619b8">f3f36391dbd74110946fc586059619c1</sys_update_version>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-06 19:36:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Common Areas and Catering Reservation">e82c5f19db974110946fc586059619d0</applet_launcher>
+        <icon display_value="Heart">fdeb41a2b72200108223e126de11a9d6</icon>
+        <label>Common Areas and Catering Reservation</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>Jonathan.murillo</sys_created_by>
+        <sys_created_on>2022-05-05 22:21:18</sys_created_on>
+        <sys_id>242c5f19db974110946fc586059619ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Common Areas and Catering Reservation</sys_name>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_242c5f19db974110946fc586059619ea</sys_update_name>
+        <sys_updated_by>Arturo.aceves</sys_updated_by>
+        <sys_updated_on>2022-05-06 19:40:34</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

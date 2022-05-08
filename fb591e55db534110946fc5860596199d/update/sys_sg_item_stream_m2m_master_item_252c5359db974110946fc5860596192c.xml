@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="212c1359db974110946fc586059619f5 Item Stream">a12c1359db974110946fc586059619f8</item_stream>
+        <master_item display_value="Reservations Form Screen Master Item">a92c1359db974110946fc586059619f9</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>Jonathan.murillo</sys_created_by>
+        <sys_created_on>2022-05-05 22:21:22</sys_created_on>
+        <sys_id>252c5359db974110946fc5860596192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_252c5359db974110946fc5860596192c</sys_update_name>
+        <sys_updated_by>Jonathan.murillo</sys_updated_by>
+        <sys_updated_on>2022-05-05 22:21:22</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

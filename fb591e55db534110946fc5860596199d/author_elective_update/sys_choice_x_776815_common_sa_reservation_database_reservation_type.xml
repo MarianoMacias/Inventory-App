@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reservation_type" table="x_776815_common_sa_reservation_database" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reservation_type</element>
+            <name>x_776815_common_sa_reservation_database</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Jonathan.murillo</sys_created_by>
+            <sys_created_on>2022-05-05 19:31:29</sys_created_on>
+            <sys_id>70453ed5dbd34110946fc586059619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reservation_type</sys_name>
+            <sys_package display_value="Common Space Administration" source="x_776815_common_sa">fb591e55db534110946fc5860596199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common Space Administration">fb591e55db534110946fc5860596199d</sys_scope>
+            <sys_update_name>sys_choice_x_776815_common_sa_reservation_database_reservation_type</sys_update_name>
+            <sys_updated_by>Jonathan.murillo</sys_updated_by>
+            <sys_updated_on>2022-05-05 19:31:29</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reservation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catering</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservation_database</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Jonathan.murillo</sys_created_by>
+            <sys_created_on>2022-05-05 19:31:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62257219dbd34110946fc586059619b4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Jonathan.murillo</sys_updated_by>
+            <sys_updated_on>2022-05-05 19:32:27</sys_updated_on>
+            <value>catering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reservation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inventory</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservation_database</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Jonathan.murillo</sys_created_by>
+            <sys_created_on>2022-05-05 19:37:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1767a99dbd34110946fc5860596192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Jonathan.murillo</sys_updated_by>
+            <sys_updated_on>2022-05-05 19:37:06</sys_updated_on>
+            <value>inventory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reservation_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Space Reservation</label>
+            <language>en</language>
+            <name>x_776815_common_sa_reservation_database</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>Jonathan.murillo</sys_created_by>
+            <sys_created_on>2022-05-05 19:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b45f219dbd34110946fc586059619fd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>Jonathan.murillo</sys_updated_by>
+            <sys_updated_on>2022-05-06 19:50:07</sys_updated_on>
+            <value>space_reservation</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
